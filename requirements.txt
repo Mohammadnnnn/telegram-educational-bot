@@ -1,0 +1,11 @@
+python-telegram-bot==20.8
+pandas
+matplotlib
+pillow
+openpyxl
+qrcode
+nest-asyncio
+reportlab
+python-dateutil
+numpy
+seaborn
